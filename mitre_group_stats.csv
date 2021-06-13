@@ -1,0 +1,16 @@
+index,Group_ID,Group_Name,description,created,Associated_Groups,Actor_Label,Country,Campaign Start,Last Seen,Affiliation,State-Sponsored,Organization,Campaign_Duration,Days_Since_Active,Assessed Motive,Industries Targeted
+count,1666,1666,1666,1666,1666,1666,1666,1666,1666,1666,1666,1666,1666.0,1666.0,1660,1660
+unique,121,121,121,42,64,121,21,24,58,8,4,17,,,10,63
+top,G0016,APT29,"[APT29](https://attack.mitre.org/groups/G0016) is threat group that has been attributed to Russia's Foreign Intelligence Service (SVR).(Citation: White House Imposing Costs RU Gov April 2021)(Citation: UK Gov Malign RIS Activity April 2021) They have operated since at least 2008, often targeting government networks in Europe and NATO member countries, research institutes, and think tanks. [APT29](https://attack.mitre.org/groups/G0016) reportedly compromised the Democratic National Committee starting in the summer of 2015.(Citation: F-Secure The Dukes)(Citation: GRIZZLY STEPPE JAR)(Citation: Crowdstrike DNC June 2016)(Citation: UK Gov UK Exposes Russia SolarWinds April 2021)
+
+In April 2021, the US and UK governments attributed the SolarWinds supply chain compromise cyber operation to the SVR; public statements included citations to [APT29](https://attack.mitre.org/groups/G0016), Cozy Bear, and The Dukes.(Citation: NSA Joint Advisory SVR SolarWinds April 2021)(Citation: UK NSCS Russia SolarWinds April 2021) Victims of this campaign included government, consulting, technology, telecom, and other organizations in North America, Europe, Asia, and the Middle East. Industry reporting referred to the actors involved in this campaign as UNC2452, NOBELIUM, StellarParticle, and Dark Halo.(Citation: FireEye SUNBURST Backdoor December 2020)(Citation: MSTIC NOBELIUM Mar 2021)(Citation: CrowdStrike SUNSPOT Implant January 2021)(Citation: Volexity SolarWinds)",2017-05-31 00:00:00,nan,APT29,China,2013-01-01 00:00:00,2020-12-31 00:00:00,Government,Yes,Unknown,,,Information theft and espionage,Government
+freq,98,98,98,813,376,98,723,321,188,764,1327,1244,,,637,140
+first,,,,2017-05-31 00:00:00,,,,1996-01-01 00:00:00,2008-12-31 00:00:00,,,,,,,
+last,,,,2021-04-14 00:00:00,,,,2021-01-01 00:00:00,2021-05-20 00:00:00,,,,,,,
+mean,,,,,,,,,,,,,3294.1362545018005,536.0228091236495,,
+std,,,,,,,,,,,,,1647.8709088318499,600.8375991068303,,
+min,,,,,,,,,,,,,58.0,22.0,,
+25%,,,,,,,,,,,,,2372.0,103.0,,
+50%,,,,,,,,,,,,,3194.0,254.0,,
+75%,,,,,,,,,,,,,4137.0,893.0,,
+max,,,,,,,,,,,,,9190.0,4545.0,,
